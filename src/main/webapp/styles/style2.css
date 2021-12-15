@@ -1,0 +1,28 @@
+body
+{
+  background: url(file:///C:/Users/Balaji/eclipse-enter-workspace/pharma/src/main/webapp/images/100.jpg);
+  background-size:1500px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+form {
+  background: transparent;
+  padding: 3em;
+  height: adaptive;
+  border-radius: 20px;
+  border-left: 1px solid white;
+  border-top: 1px solid white;
+  backdrop-filter: blur(10px);
+  box-shadow: 10px 40px 40px -6px rgba(0,0,0,0.2);
+  text-align: center;
+  position: relative;
+}
+a
+{
+	  color:black;
+}
+h1
+{
+	font-family: 'Times New Roman', serif;
+	font-size:50px;
+}

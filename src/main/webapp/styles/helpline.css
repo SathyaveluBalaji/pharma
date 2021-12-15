@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+body
+{
+  background: url(file:///C:/Users/Balaji/eclipse-enter-workspace/pharma/src/main/webapp/images/100.jpg);
+  background-size:1500px;
+  font-family: 'Montserrat', sans-serif;
+  text-align:center;
+}
+[type="submit"] {
+    background:transparent;
+      margin-top: 10px;
+      width: 100px;
+      height:40px;
+      border-radius:10px;
+      font-size: 1rem;
+    }
